@@ -4,7 +4,8 @@
   "description": "",
   "main": "dist/server.js",
   "scripts": {
-    "start": "nodemon -e js ./dist/server.js"
+    "start": "nodemon -e js ./dist/server.js",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
